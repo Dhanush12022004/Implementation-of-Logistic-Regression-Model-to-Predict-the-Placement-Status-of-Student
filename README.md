@@ -98,8 +98,22 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![image](https://github.com/Dhanush12022004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135558/86099f5a-475b-4334-bccf-f02618640632)
 
+![image](https://github.com/Dhanush12022004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135558/446d036c-3e7e-45cf-85b4-88c7b838b509)
 
 
+![image](https://github.com/Dhanush12022004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135558/68a4e8ee-2ca6-4eed-88ef-6a32607f2185)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135558/466aec79-dad2-422d-9e66-9857cc69599e)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135558/c68ea5df-6267-4d38-9ee5-a8b68ccadfbf)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135558/093ae3fc-a3b6-4599-895d-484ee9c1047c)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135558/566f6774-7b4e-4797-81d2-8f92d6fb901c)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135558/7f01d323-91f5-4271-aadc-b31520b31534)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135558/50e8ede8-d5d0-4033-9116-d53218d05e8c)
 
 
 ## Result:
